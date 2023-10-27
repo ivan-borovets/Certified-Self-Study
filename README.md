@@ -38,7 +38,11 @@ The course description is available by clicking on the line.
 </details>
 
 ## Math
-- [Math Logic & Algorithms Theory](<Certificates/10 Math/Math Logic and Theory of Algorithms.pdf>) by TUSUR University, 10 hrs
+- <details>
+    <summary>★★★☆☆ <a href="Certificates/10%20Math/Math %20Logic%20and%20Theory%20of%20Algorithms.pdf">Math Logic & Algorithms Theory</a> by TUSUR University, 10 hrs</summary>
+    The course as a whole is good as an introductory one, but the theory is presented rather dryly. Formalisms concerning the foundations of mathematical logic, set theory, propositional logic, first-order languages, the axiomatic method, mathematical proof, and the theory of algorithms are covered.
+</details>
+
 - [Minimum in Linear Algebra](<Certificates/10 Math/Minimum in linear algebra.pdf>) by V. S. Zabolotskiy, 18 hrs
 - [OGE (basis of the USE)](<Certificates/10 Math/Basic Course of Math OGE preparation.pdf>) by A. Zubakha, 23 hrs
 - [Analytic geometry for stereometric problems](<Certificates/10 Math/USE in Math - Coordinate-Vector Method.pdf>) by BEEGEEK, 21 hrs
