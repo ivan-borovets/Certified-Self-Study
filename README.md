@@ -1,6 +1,6 @@
 # Certified-Self-Study
 A collection of certificate-granting online courses that I have completed.\
-Stars indicate my personal rating of the course from 0 to 5.\
+Stars indicate my personal rating of the quality of the course from 0 to 5.\
 The course description is available by clicking on the line.
 
 ## Statistics
@@ -59,11 +59,30 @@ The course description is available by clicking on the line.
 </details>
 
 ## Biology
-- [Intro to MolBio & Biomedicine](<Certificates/60 Biology/Intro to Molecular Biology and Biomedicine.pdf>) by MIPT, 2 hrs
-- [MolBio & Genetics](<Certificates/60 Biology/Molecular Biology and Genetics.pdf>) by Bioinformatics Institute, 4 hrs
-- [MolBio of the Cell](<Certificates/60 Biology/Molecular Biology of the Cell.pdf>) by Bioinformatics Institute, 9 hrs
-- [Intro to Physiology](<Certificates/60 Biology/Intro to Physiology.pdf>) by SPBU, 27 hrs
-- [Central Nervous System Physiology](<Certificates/60 Biology/Openedu. Физиология ЦНС.png>) by MSU, 108 hrs
+- <details>
+    <summary>★☆☆☆☆ <a href="Certificates/60%20Biology/Intro%20to%20Molecular%20Biology%20and%20Biomedicine.pdf">Intro to MolBio & Biomedicine</a> by MIPT, 2 hrs</summary>
+    A simple, ultra-short course introducing non-biologists to biomedicine. At a superficial level, issues familiar to schoolchildren are addressed: the role of nucleic acids, and proteins, the basics of genetics and evolution, drug design and the use of genomic data. I expected more from MIPT.
+</details>
+
+- <details>
+    <summary>★★★☆☆ <a href="Certificates/60%20Biology/Molecular%20Biology%20and%20Genetics.pdf">MolBio & Genetics</a> by Bioinformatics Institute, 4 hrs</summary>
+    It is a review course recommended for refreshing the knowledge of molecular biology. General concepts of cellular and molecular biology are considered, and problems in genetics are also present. It can be difficult for beginners; teachers lack experience.
+</details>
+
+- <details>
+    <summary>★★★★☆ <a href="Certificates/60%20Biology/Molecular%20Biology%20of%20the%20Cell.pdf">MolBio of the Cell</a> by Bioinformatics Institute, 9 hrs</summary>
+    A good overview course on molecular cell biology. The mechanisms of genome implementation, metabolism and signalling are considered. One can recommend the course before reading serious literature.
+</details>
+
+- <details>
+    <summary>★★★☆☆ <a href="Certificates/60%20Biology/Intro%20to%20Physiology.pdf">Intro to Physiology</a> by SPBU, 27 hrs</summary>
+    At one time, I learned some interesting points from this course, but in general, as a physiologist, I cannot recommend it either to the general public or to students in the first place. The course demonstrates interesting “trees”, behind which the “forest” is not visible. There was an impression that each teacher simply spoke about his scientific interests but could not excitingly talk about the rest. The course covers physiology as a science, physiology of excitable tissues, nervous regulation of functions in the body, physiology of neuromuscular transmission, physiology of muscle contraction, autonomic nervous system, hypothalamic-pituitary system and pineal gland, hormones of peripheral endocrine glands, general problems of the physiology of sensory systems and psychophysiological aspects of their functioning.
+</details>
+
+- <details>
+    <summary>★★★★☆ <a href="Certificates/60%20Biology/Openedu.%20Физиология%20ЦНС.png">Central Nervous System Physiology</a> by MSU, 108 hrs</summary>
+    Quite a decent course for an introduction to neurobiology. General issues of the physiology of the central nervous system, neurotransmitter systems of the brain, physiology of structures and key functional blocks of the central nervous system are examined. The neurotransmitter systems are especially interesting, which provides good ground for independent study of psychopharmacology. Among the minuses, I will note practical tasks, for example, in the form of an essay.
+</details>
 
 ## Philosophy of Science
 - [Scientific Thinking](<Certificates/70 General/Scientific Thinking.pdf>) by SKB Kontur, 26 hrs
