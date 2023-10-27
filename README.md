@@ -9,6 +9,9 @@ A collection of certificate-granting online courses that I have completed
 - ["PyGen" for beginners](https://stepik.org/cert/2067366?lang=en) by BEEGEEK, 40 hrs
 - ["PyGen" for advanced](https://stepik.org/cert/2112843?lang=en) by BEEGEEK, 64 hrs
 
+## SQL
+- [SQL for everyone](https://stepik.org/cert/2219212?lang=en) by I. Kim, 11 hrs
+
 ## System administration
 - [Intro to Linux](https://stepik.org/cert/2065916?lang=en) by Bioinformatics Institute, 10 hrs
 
