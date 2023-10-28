@@ -28,7 +28,7 @@ The course description is available by clicking on the line.
 ## SQL
 - <details>
     <summary>★★★★★ <a href="Certificates/30%20SQL/SQL%20for%20everyone.pdf">SQL for everyone</a> by I. Kim, 11 hrs</summary>
-    A short and particular course on SQL (MSSQL) - the best I've seen. Training takes place on an actual database using Azure Data Studio. Taught by a strong practitioner: nothing extra (for a data analyst) in theory, the tasks resemble real work. Syntax elements to learn: WHERE, LIKE, AND, OR, ORDER BY, COUNT, MIN, MAX, AVG, AS, GROUP BY, HAVING, INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, UNION (ALL), Subqueries, CASE , Popular functions to work with the strings. Self-test tasks are given both after each lesson on the topic of this lesson and at the end of the course.
+    A short and particular course on SQL (MSSQL) - the best I've seen. Training takes place on an actual database using Azure Data Studio. Taught by a strong practitioner: nothing extra (for a data analyst) in theory, the tasks resemble real work. Syntax elements to learn: WHERE, LIKE, AND, OR, ORDER BY, COUNT, MIN, MAX, AVG, AS, GROUP BY, HAVING, INNER JOIN, LEFT JOIN, RIGHT JOIN, FULL JOIN, UNION (ALL), subqueries, CASE, popular functions to work with the strings. Self-test tasks are given both after each lesson on the topic of this lesson and at the end of the course.
 </details>
 
 ## System administration
@@ -39,7 +39,7 @@ The course description is available by clicking on the line.
 
 ## Math
 - <details>
-    <summary>★★★☆☆ <a href="Certificates/10%20Math/Math %20Logic%20and%20Theory%20of%20Algorithms.pdf">Math Logic & Algorithms Theory</a> by TUSUR University, 10 hrs</summary>
+    <summary>★★★☆☆ <a href="Certificates/10%20Math/Math%20Logic%20and%20Theory%20of%20Algorithms.pdf">Math Logic & Algorithms Theory</a> by TUSUR University, 10 hrs</summary>
     The course as a whole is suitable as an introductory one, but the theory is presented rather dryly. Formalisms concerning the foundations of mathematical logic, set theory, propositional logic, first-order languages, the axiomatic method, mathematical proof, and the theory of algorithms are covered.
 </details>
 
@@ -55,7 +55,7 @@ The course description is available by clicking on the line.
 
 - <details>
     <summary>★★★★☆ <a href="Certificates/10%20Math/USE%20in%20Math%20-%20Coordinate-Vector%20Method.pdf">Analytic geometry for stereometric problems</a> by BEEGEEK, 21 hrs</summary>
-    This course teaches you how to solve stereometric tasks from the Unified State Exam using analytical geometry of the type: drawing up an equation of a straight line and a plane, and finding angles and distances in space. The theory is presented succinctly, in some places even too much - I did not have enough illustrations and mathematical proofs. There are a lot of well-designed problems.
+    This course teaches you how to solve stereometric tasks from the Unified State Exam using analytical geometry of the type: drawing up equations of a straight line and a plane, and finding angles and distances in space. The theory is presented succinctly, in some places even too much - I did not have enough illustrations and mathematical proofs. There are a lot of well-designed problems.
 </details>
 
 ## Biology
@@ -66,7 +66,7 @@ The course description is available by clicking on the line.
 
 - <details>
     <summary>★★★☆☆ <a href="Certificates/60%20Biology/Molecular%20Biology%20and%20Genetics.pdf">MolBio & Genetics</a> by Bioinformatics Institute, 4 hrs</summary>
-    It is a review course recommended for refreshing the knowledge of molecular biology. General concepts of cellular and molecular biology are considered, and problems in genetics are also present. It can be difficult for beginners; teachers lack experience.
+    It is a review course recommended for refreshing the knowledge of molecular biology. General concepts of cellular and molecular biology are considered, and problems in genetics are also present. It can be difficult for beginners; lecturers lack experience.
 </details>
 
 - <details>
@@ -76,7 +76,7 @@ The course description is available by clicking on the line.
 
 - <details>
     <summary>★★★☆☆ <a href="Certificates/60%20Biology/Intro%20to%20Physiology.pdf">Intro to Physiology</a> by SPBU, 27 hrs</summary>
-    At one time, I learned some interesting points from this course, but in general, as a physiologist, I cannot recommend it either to the general public or to students in the first place. The course demonstrates interesting “trees”, behind which the “forest” is not visible. There was an impression that each teacher simply spoke about his scientific interests but could not excitingly talk about the rest. The course covers physiology as a science, physiology of excitable tissues, nervous regulation of functions in the body, physiology of neuromuscular transmission, physiology of muscle contraction, autonomic nervous system, hypothalamic-pituitary system and pineal gland, hormones of peripheral endocrine glands, general problems of the physiology of sensory systems and psychophysiological aspects of their functioning.
+    At one time, I learned some interesting points from this course, but in general, as a physiologist, I cannot recommend it either to the general public or to students in the first place. The course demonstrates interesting “trees”, behind which the “forest” is not visible. There was an impression that each lecturer simply spoke about his scientific interests but could not excitingly talk about the rest. The course covers physiology as a science, physiology of excitable tissues, nervous regulation of functions in the body, physiology of neuromuscular transmission, physiology of muscle contraction, autonomic nervous system, hypothalamic-pituitary system and pineal gland, hormones of peripheral endocrine glands, general problems of the physiology of sensory systems and psychophysiological aspects of their functioning.
 </details>
 
 - <details>
@@ -85,4 +85,7 @@ The course description is available by clicking on the line.
 </details>
 
 ## Philosophy of Science
-- [Scientific Thinking](<Certificates/70 General/Scientific Thinking.pdf>) by SKB Kontur, 26 hrs
+- <details>
+    <summary>★★★★☆ <a href="Certificates/70%20General/Scientific%20Thinking.pdf">Scientific Thinking</a> by SKB Kontur, 26 hrs</summary>
+    I highly recommend taking it before starting research or before entering graduate school. The most interesting sections of the course are the history and philosophy of science, formal logic, critical analysis of statements, debating and scientific ethics. Of the minuses: there are controversial assignments (which was not a big problem until the author, for some reason, closed the comments) and tasks with checking by other students.
+</details>
