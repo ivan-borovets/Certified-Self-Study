@@ -1,7 +1,9 @@
 # Certified-Self-Study
 A collection of certificate-granting online courses that I have completed.\
 Stars indicate my personal rating of the quality of the course from 0 to 5.\
-The course description is available by clicking on the line.
+The course description is available by clicking on the line.\
+\
+Please note that course lengths are provided by the course authors and most likely indicate the minimum time required to complete the course. In practice, some courses may take at least twice as long to complete.
 
 ## Statistics
 - <details>
@@ -23,6 +25,11 @@ The course description is available by clicking on the line.
 - <details>
     <summary>★★★★★ <a href="Certificates/20%20Python/PyGen%20for%20advanced%20(Python).pdf">"PyGen" for advanced</a> by BEEGEEK, 64 hrs</summary>
     A congenial continuation of the first part for beginners. Theory and practice are equally well presented. The course begins with tasks to review what was learned in the first course (or to determine the need to go through it first). Next, we examine the data type bool, NoneType, nested lists, matrices (tasks are outstanding, for example, traversing a matrix in a spiral), operations on them in mathematics, tuples, sets, frozenset, set generators, dictionaries, their methods and generators, random modules, string, decimal, fraction, complex, turtle, functions: optional and named arguments, functions with a variable number of arguments, programming paradigms, functions as objects, higher-order functions, map(), filter(), reduce(), anonymous functions, any(), all(), zip(), enumerate(), working with files (input-output).
+</details>
+
+- <details>
+    <summary>★★★★☆ <a href="Certificates/20%20Python/Indie%20Python%20Programming%20Course.pdf">Indie Python Programming Course</a> by A. Egorov, 69 hrs</summary>
+    Quite a good course. The theory is presented in a video, duplicated in text and interactively executed code. There are a lot of problems, and for the most part, they are suitable for reinforcing or reviewing a topic but could be a little more complicated. A pleasant surprise was the analysis of some topics usually classified as advanced. In addition to the standard topics in Python courses, some sorting algorithms, scopes, recursion, lambda, closures, decorators, working with modules, JSON, expressions and generator functions, map, filter, and zip are discussed; magic methods are briefly touched upon. Among the disadvantages are that the code sent for review passes few tests, the theory is not presented strictly enough in some places (sometimes this is an advantage), and issues when loading course pages with interactively executed code.
 </details>
 
 ## SQL
