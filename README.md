@@ -32,6 +32,12 @@ Please note that course lengths are provided by the course authors and most like
     Quite a good course. The theory is presented in a video, duplicated in text and interactively executed code. There are a lot of problems, and for the most part, they are suitable for reinforcing or reviewing a topic but could be a little more complicated. A pleasant surprise was the analysis of some topics usually classified as advanced. In addition to the standard topics in Python courses, some sorting algorithms, scopes, recursion, lambda, closures, decorators, working with modules, JSON, expressions and generator functions, map, filter, and zip are discussed; magic methods are briefly touched upon. Among the disadvantages are that the code sent for review passes few tests, the theory is not presented strictly enough in some places (sometimes this is an advantage), and issues when loading course pages with interactively executed code.
 </details>
 
+
+- <details>
+    <summary>★★☆☆☆ <a href="Certificates/20%20Python/Python%20Programming.pdf">Python Programming</a> by Bioinformatics Institute, 19 hrs</summary>
+    It is not clear what audience this course is intended for. I definitely don't recommend starting your Python journey with it. The theory is given disgustingly fragmentarily and is not sufficient to solve the proposed problems. Personally, I took this course to solve problems - I don’t care where they came from. And, I must admit, some turned out to be amazingly original. A pleasant surprise was a task that involved using the “requests” module: open a file on the server, get a link to the next file, which contains a link to the next file... until you get to the last one.
+</details>
+
 ## SQL
 - <details>
     <summary>★★★★★ <a href="Certificates/30%20SQL/SQL%20for%20everyone.pdf">SQL for everyone</a> by I. Kim, 11 hrs</summary>
