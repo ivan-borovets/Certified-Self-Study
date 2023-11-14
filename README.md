@@ -38,6 +38,11 @@ Please note that course lengths are provided by the course authors and most like
     It is not clear what audience this course is intended for. I definitely don't recommend starting your Python journey with it. The theory is given disgustingly fragmentarily and is not sufficient to solve the proposed problems. Personally, I took this course to solve problems - I don’t care where they came from. And, I must admit, some turned out to be amazingly original. A pleasant surprise was a task that involved using the “requests” module: open a file on the server, get a link to the next file, which contains a link to the next file... until you get to the last one.
 </details>
 
+- <details>
+    <summary>★★☆☆☆ <a href="Certificates/20%20Python/Python%20-%20Basics%20&%20Application.pdf">Python - Basics & Application</a> by Bioinformatics Institute, 23 hrs</summary>
+    A very controversial course. At first, the impression is highly positive: the theory is taught cheerfully, interestingly and somewhat deeper than in traditional courses for beginners. Actually, despite the name of this course, it is recommended that you take it if you are already familiar with Python. However, as soon as you have time to be charmed, the theory becomes outdated or erroneous (which is not corrected by anyone except commentators), and the tasks become disgustingly formulated and of little relevance. Apparently, the author is obsessed with graphs, so one will have to repeatedly emulate the dependencies of objects through these graphs and then somehow bypass them... despite the fact that algorithms and data structures are not understood at all. The course loses its consistency from the module on regular expressions and becomes chaotic. Overall, I would not recommend anything other than the video lectures from this course. From them, armed with comments, you can learn more deeply about the structure of the language, its standard tools and applications for text analysis (string methods, regular expressions, Internet queries, CSV, JSON, API, XML).
+</details>
+
 ## SQL
 - <details>
     <summary>★★★★★ <a href="Certificates/30%20SQL/SQL%20for%20everyone.pdf">SQL for everyone</a> by I. Kim, 11 hrs</summary>
