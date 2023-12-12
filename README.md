@@ -18,13 +18,18 @@ Please note that course lengths are provided by the course authors and most like
 
 ## Python
 - <details>
-    <summary>★★★★★ <a href="Certificates/20%20Python/PyGen%20for%20beginners%20(Python).pdf">"PyGen" for beginners</a> by BEEGEEK, 40 hrs</summary>
+    <summary>★★★★★ <a href="Certificates/20%20Python/PyGen%20for%20beginners%20(Python).pdf">"PyGen" for beginners</a> by BEEGEEK, 40 hrs (500 problems)</summary>
     It is an excellent course, absolutely recommended for beginners and those wishing to refresh their Python knowledge from the beginning. The theory is concise clear, but not dry. It is sufficient for solving the proposed problems. The tasks are well chosen: they not only reinforce the theory but also train algorithmic thinking. The course covers data input-output, integer arithmetic, conditional operator, basic data types, loops, indexing, slices, string methods, lists and their methods, list comprehension, sorting, functions with and without parameters, functions with value return, local and global scopes. At the end, mini-projects are given to consolidate the studied topics.
 </details>
 
 - <details>
-    <summary>★★★★★ <a href="Certificates/20%20Python/PyGen%20for%20advanced%20(Python).pdf">"PyGen" for advanced</a> by BEEGEEK, 64 hrs</summary>
+    <summary>★★★★★ <a href="Certificates/20%20Python/PyGen%20for%20advanced%20(Python).pdf">"PyGen" for advanced</a> by BEEGEEK, 64 hrs (710 problems)</summary>
     A congenial continuation of the first part for beginners. Theory and practice are equally well presented. The course begins with tasks to review what was learned in the first course (or to determine the need to go through it first). Next, we examine the data type bool, NoneType, nested lists, matrices (tasks are outstanding, for example, traversing a matrix in a spiral), operations on them in mathematics, tuples, sets, frozenset, set generators, dictionaries, their methods and generators, random modules, string, decimal, fraction, complex, turtle, functions: optional and named arguments, functions with a variable number of arguments, programming paradigms, functions as objects, higher-order functions, map(), filter(), reduce(), anonymous functions, any(), all(), zip(), enumerate(), working with files (input-output).
+</details>
+
+- <details>
+    <summary>★★★★★ <a href="Certificates/20%20Python/PyGen%20for%20professionals%20(Python).pdf">"PyGen" for professionals</a> by BEEGEEK, 154 hrs (1180 problems)</summary>
+    This course is very good. I am going to leave a review of it in the future.
 </details>
 
 - <details>
