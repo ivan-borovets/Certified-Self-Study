@@ -33,6 +33,11 @@ Please note that course lengths are provided by the course authors and most like
 </details>
 
 - <details>
+    <summary>★★★★★ <a href="Certificates/20%20Python/PyGen%20OOP%20(Python).pdf">"PyGen" OOP</a> by BEEGEEK, 126 hrs (800 problems)</summary>
+    This course is very good. I am going to leave a review of it in the future.
+</details>
+
+- <details>
     <summary>★★★★☆ <a href="Certificates/20%20Python/Indie%20Python%20Programming%20Course.pdf">Indie Python Programming Course</a> by A. Egorov, 69 hrs</summary>
     Quite a good course. The theory is presented in a video, duplicated in text and interactively executed code. There are a lot of problems, and for the most part, they are suitable for reinforcing or reviewing a topic but could be a little more complicated. A pleasant surprise was the analysis of some topics usually classified as advanced. In addition to the standard topics in Python courses, some sorting algorithms, scopes, recursion, lambda, closures, decorators, working with modules, JSON, expressions and generator functions, map, filter, and zip are discussed; magic methods are briefly touched upon. Among the disadvantages are that the code sent for review passes few tests, the theory is not presented strictly enough in some places (sometimes this is an advantage), and issues when loading course pages with interactively executed code.
 </details>
