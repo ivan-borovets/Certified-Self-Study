@@ -5,6 +5,65 @@ The course description is available by clicking on the line.\
 \
 Please note that course lengths are provided by the course authors and most likely indicate the minimum time required to complete the course. In practice, some courses may take at least twice as long to complete.
 
+## Biology
+- <details>
+    <summary>★☆☆☆☆ <a href="Certificates/60%20Biology/Intro%20to%20Molecular%20Biology%20and%20Biomedicine.pdf">Intro to MolBio & Biomedicine</a> by MIPT, 2 hrs</summary>
+    A simple, ultra-short course introducing non-biologists to biomedicine. At a superficial level, issues familiar to schoolchildren are addressed: the role of nucleic acids, and proteins, the basics of genetics and evolution, drug design and the use of genomic data. I expected more from MIPT.
+</details>
+
+- <details>
+    <summary>★★★☆☆ <a href="Certificates/60%20Biology/Molecular%20Biology%20and%20Genetics.pdf">MolBio & Genetics</a> by Bioinformatics Institute, 4 hrs</summary>
+    It is a review course recommended for refreshing the knowledge of molecular biology. General concepts of cellular and molecular biology are considered, and problems in genetics are also present. It can be difficult for beginners; lecturers lack experience.
+</details>
+
+- <details>
+    <summary>★★★★☆ <a href="Certificates/60%20Biology/Molecular%20Biology%20of%20the%20Cell.pdf">MolBio of the Cell</a> by Bioinformatics Institute, 9 hrs</summary>
+    A good overview course on molecular cell biology. The mechanisms of genome implementation, metabolism and signalling are considered. One can recommend the course before reading serious literature.
+</details>
+
+- <details>
+    <summary>★★★☆☆ <a href="Certificates/60%20Biology/Intro%20to%20Physiology.pdf">Intro to Physiology</a> by SPBU, 27 hrs</summary>
+    At one time, I learned some interesting points from this course, but in general, as a physiologist, I cannot recommend it either to the general public or to students in the first place. The course demonstrates interesting “trees”, behind which the “forest” is not visible. There was an impression that each lecturer simply spoke about his scientific interests but could not excitingly talk about the rest. The course covers physiology as a science, physiology of excitable tissues, nervous regulation of functions in the body, physiology of neuromuscular transmission, physiology of muscle contraction, autonomic nervous system, hypothalamic-pituitary system and pineal gland, hormones of peripheral endocrine glands, general problems of the physiology of sensory systems and psychophysiological aspects of their functioning.
+</details>
+
+- <details>
+    <summary>★★★★☆ <a href="Certificates/60%20Biology/Openedu.%20Физиология%20ЦНС.png">Central Nervous System Physiology</a> by MSU, 108 hrs</summary>
+    Quite a decent course for an introduction to neurobiology. General issues of the physiology of the central nervous system, neurotransmitter systems of the brain, physiology of structures and key functional blocks of the central nervous system are examined. The neurotransmitter systems are especially interesting, which provides good ground for independent study of psychopharmacology. Among the minuses, I will note practical tasks, for example, in the form of an essay.
+</details>
+
+## HTML/CSS
+- <details>
+    <summary>★★★★☆ <a href="Certificates/80%20Frontend/Indie%20HTML%20and%20CSS.pdf">Indie course on HTML and CSS</a> by A. Egorov, 3 hrs</summary>
+    Quite enough to get started.
+</details>
+
+## Math
+- <details>
+    <summary>★★★☆☆ <a href="Certificates/10%20Math/Math%20Logic%20and%20Theory%20of%20Algorithms.pdf">Math Logic & Algorithms Theory</a> by TUSUR University, 10 hrs</summary>
+    The course as a whole is suitable as an introductory one, but the theory is presented rather dryly. Formalisms concerning the foundations of mathematical logic, set theory, propositional logic, first-order languages, the axiomatic method, mathematical proof, and the theory of algorithms are covered.
+</details>
+
+- <details>
+    <summary>★★★☆☆ <a href="Certificates/10%20Math/Minimum%20in%20linear%20algebra.pdf">Minimum in Linear Algebra</a> by V. S. Zabolotskiy, 18 hrs</summary>
+    The course is only suitable for reviewing material. The theory of matrices and determinants and systems of linear algebraic equations are examined. There are not enough examples to justify the need to use mathematical objects. Statements are proven by the word "obviously". What’s good: a skeleton is provided to hang meat using additional materials. The tasks correspond to the material. I solved some of them on paper, and with the help of others, I honed numpy.
+</details>
+
+- <details>
+    <summary>★★★★☆ <a href="Certificates/10%20Math/Basic%20Course%20of%20Math%20OGE%20preparation.pdf">OGE (basis of the USE)</a> by A. Zubakha, 23 hrs</summary>
+    It is a solid course to refresh your school math curriculum. Transformations of algebraic expressions, systems of equations and inequalities, functions and their graphs, progressions, fundamentals of probability theory, and planimetry are considered.
+</details>
+
+- <details>
+    <summary>★★★★☆ <a href="Certificates/10%20Math/USE%20in%20Math%20-%20Coordinate-Vector%20Method.pdf">Analytic geometry for stereometric problems</a> by BEEGEEK, 21 hrs</summary>
+    This course teaches you how to solve stereometric tasks from the Unified State Exam using analytical geometry of the type: drawing up equations of a straight line and a plane, and finding angles and distances in space. The theory is presented succinctly, in some places even too much - I did not have enough illustrations and mathematical proofs. There are a lot of well-designed problems.
+</details>
+
+## Philosophy of Science
+- <details>
+    <summary>★★★★☆ <a href="Certificates/70%20General/Scientific%20Thinking.pdf">Scientific Thinking</a> by SKB Kontur, 26 hrs</summary>
+    I highly recommend taking it before starting research or before entering graduate school. The most interesting sections of the course are the history and philosophy of science, formal logic, critical analysis of statements, debating and scientific ethics. Of the minuses: there are controversial assignments (which was not a big problem until the author, for some reason, closed the comments) and tasks with checking by other students.
+</details>
+
 ## Statistics
 - <details>
     <summary>★★★★☆ <a href="Certificates/40%20Statistics/Basics%20of%20Statistics.pdf">Basics of Statistics</a> by Bioinformatics Institute, 7 hrs</summary>
@@ -63,57 +122,4 @@ Please note that course lengths are provided by the course authors and most like
 - <details>
     <summary>★★☆☆☆ <a href="Certificates/50%20System%20Administration/Introduction%20to%20Linux.pdf">Intro to Linux</a> by Bioinformatics Institute, 10 hrs</summary>
     An overview course for beginners getting to know Linux. There is a lot to see, but overall, it is not very good. The information is presented in a cluttered manner, and there are too many specific tasks. The course covers the basics of Terminal, launching executable files, input/output, downloading files, working with archives, searching for files and words in files, working on the server, bash scripts and more.
-</details>
-
-## Math
-- <details>
-    <summary>★★★☆☆ <a href="Certificates/10%20Math/Math%20Logic%20and%20Theory%20of%20Algorithms.pdf">Math Logic & Algorithms Theory</a> by TUSUR University, 10 hrs</summary>
-    The course as a whole is suitable as an introductory one, but the theory is presented rather dryly. Formalisms concerning the foundations of mathematical logic, set theory, propositional logic, first-order languages, the axiomatic method, mathematical proof, and the theory of algorithms are covered.
-</details>
-
-- <details>
-    <summary>★★★☆☆ <a href="Certificates/10%20Math/Minimum%20in%20linear%20algebra.pdf">Minimum in Linear Algebra</a> by V. S. Zabolotskiy, 18 hrs</summary>
-    The course is only suitable for reviewing material. The theory of matrices and determinants and systems of linear algebraic equations are examined. There are not enough examples to justify the need to use mathematical objects. Statements are proven by the word "obviously". What’s good: a skeleton is provided to hang meat using additional materials. The tasks correspond to the material. I solved some of them on paper, and with the help of others, I honed numpy.
-</details>
-
-- <details>
-    <summary>★★★★☆ <a href="Certificates/10%20Math/Basic%20Course%20of%20Math%20OGE%20preparation.pdf">OGE (basis of the USE)</a> by A. Zubakha, 23 hrs</summary>
-    It is a solid course to refresh your school math curriculum. Transformations of algebraic expressions, systems of equations and inequalities, functions and their graphs, progressions, fundamentals of probability theory, and planimetry are considered.
-</details>
-
-- <details>
-    <summary>★★★★☆ <a href="Certificates/10%20Math/USE%20in%20Math%20-%20Coordinate-Vector%20Method.pdf">Analytic geometry for stereometric problems</a> by BEEGEEK, 21 hrs</summary>
-    This course teaches you how to solve stereometric tasks from the Unified State Exam using analytical geometry of the type: drawing up equations of a straight line and a plane, and finding angles and distances in space. The theory is presented succinctly, in some places even too much - I did not have enough illustrations and mathematical proofs. There are a lot of well-designed problems.
-</details>
-
-## Biology
-- <details>
-    <summary>★☆☆☆☆ <a href="Certificates/60%20Biology/Intro%20to%20Molecular%20Biology%20and%20Biomedicine.pdf">Intro to MolBio & Biomedicine</a> by MIPT, 2 hrs</summary>
-    A simple, ultra-short course introducing non-biologists to biomedicine. At a superficial level, issues familiar to schoolchildren are addressed: the role of nucleic acids, and proteins, the basics of genetics and evolution, drug design and the use of genomic data. I expected more from MIPT.
-</details>
-
-- <details>
-    <summary>★★★☆☆ <a href="Certificates/60%20Biology/Molecular%20Biology%20and%20Genetics.pdf">MolBio & Genetics</a> by Bioinformatics Institute, 4 hrs</summary>
-    It is a review course recommended for refreshing the knowledge of molecular biology. General concepts of cellular and molecular biology are considered, and problems in genetics are also present. It can be difficult for beginners; lecturers lack experience.
-</details>
-
-- <details>
-    <summary>★★★★☆ <a href="Certificates/60%20Biology/Molecular%20Biology%20of%20the%20Cell.pdf">MolBio of the Cell</a> by Bioinformatics Institute, 9 hrs</summary>
-    A good overview course on molecular cell biology. The mechanisms of genome implementation, metabolism and signalling are considered. One can recommend the course before reading serious literature.
-</details>
-
-- <details>
-    <summary>★★★☆☆ <a href="Certificates/60%20Biology/Intro%20to%20Physiology.pdf">Intro to Physiology</a> by SPBU, 27 hrs</summary>
-    At one time, I learned some interesting points from this course, but in general, as a physiologist, I cannot recommend it either to the general public or to students in the first place. The course demonstrates interesting “trees”, behind which the “forest” is not visible. There was an impression that each lecturer simply spoke about his scientific interests but could not excitingly talk about the rest. The course covers physiology as a science, physiology of excitable tissues, nervous regulation of functions in the body, physiology of neuromuscular transmission, physiology of muscle contraction, autonomic nervous system, hypothalamic-pituitary system and pineal gland, hormones of peripheral endocrine glands, general problems of the physiology of sensory systems and psychophysiological aspects of their functioning.
-</details>
-
-- <details>
-    <summary>★★★★☆ <a href="Certificates/60%20Biology/Openedu.%20Физиология%20ЦНС.png">Central Nervous System Physiology</a> by MSU, 108 hrs</summary>
-    Quite a decent course for an introduction to neurobiology. General issues of the physiology of the central nervous system, neurotransmitter systems of the brain, physiology of structures and key functional blocks of the central nervous system are examined. The neurotransmitter systems are especially interesting, which provides good ground for independent study of psychopharmacology. Among the minuses, I will note practical tasks, for example, in the form of an essay.
-</details>
-
-## Philosophy of Science
-- <details>
-    <summary>★★★★☆ <a href="Certificates/70%20General/Scientific%20Thinking.pdf">Scientific Thinking</a> by SKB Kontur, 26 hrs</summary>
-    I highly recommend taking it before starting research or before entering graduate school. The most interesting sections of the course are the history and philosophy of science, formal logic, critical analysis of statements, debating and scientific ethics. Of the minuses: there are controversial assignments (which was not a big problem until the author, for some reason, closed the comments) and tasks with checking by other students.
 </details>
